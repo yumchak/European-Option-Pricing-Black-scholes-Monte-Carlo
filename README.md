@@ -44,3 +44,6 @@ As the number of simulations increases, the Monte Carlo estimate converges to th
 #### Section 3. Risk Sensitivity Analysis
 - Investigate the Greeks (Vega, Theta)
 - Analyse how different parameters affect option price and risk exposure
+
+## Conclusion
+This project demonstrates how analytical models and simulation techniques can be used together to study derivative pricing. The Monte Carlo method provides numerical estimates that converge to the theoretical Black–Scholes price as the number of simulations increases. Sensitivity analysis further illustrates how volatility and time to maturity influence option values.
